@@ -77,3 +77,7 @@ Easy installation of new libraries with [Bower](http://bower.io/).
 Build, optimization and live reload with [Grunt](http://gruntjs.com/).
 
 *Copyright (C) 2013 [Julien Dubois](http://www.julien-dubois.com/)*
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/yesnault/generator-jhipster/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
